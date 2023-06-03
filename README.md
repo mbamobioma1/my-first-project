@@ -65,7 +65,7 @@ After uploading your projects to the repository
 3. change the **Branch to main** (by default it is set as none)
 4. click on **save**
 
-![image needs a data connection to display]()
+![image needs a data connection to display](2023-06-03-17-20-20.png)
 
 5. wait a bit, and refresh to get a link for visiting your live project
 6. copy the URL link and share it with whoever you want to see your project now that it has been hosted.
