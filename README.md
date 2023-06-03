@@ -26,7 +26,7 @@ To sign up for a GitHub account navigate to [https://github.com/]() and follow t
 With a [repository]() you can do the following:
 * Upload your code project
 * save projects for reference purposes
-* host your projects on GitHub etc.
+* host your projects on GitHub Pages etc.
 #### Steps on How to Create Repository
 1. click the plus icon on any of the GitHub pages
 2. click on **New repository**
