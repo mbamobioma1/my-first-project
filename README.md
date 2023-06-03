@@ -9,7 +9,7 @@ In this tutorial, we covered the following:
 * How to create GitHub account.
 * How to create a repository.
 * How to upload project to a repository.
-* How to host project using GitHub page.
+* How to host project using GitHub Pages.
 * How to make changes on already hosted project.
 ## Steps to Host Project on GitHub and Make Changes to Already Hosted Project
 1. Create GitHub account.
