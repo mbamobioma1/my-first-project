@@ -35,7 +35,7 @@ With a [repository](https://docs.github.com/en/repositories/creating-and-managin
 1. click the plus icon on any of the GitHub pages
 2. click on **New repository**
 
-![image needs a data connection to display]()
+![image needs a data connection to display](2023-06-03-16-02-14.png)
 
 3. name your repository eg ***my-first-project***
 4. set it public (make sure it is public if you plan on hosting your project else it won't work)
