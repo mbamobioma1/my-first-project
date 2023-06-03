@@ -19,18 +19,18 @@ Take the following steps to host your project and make changes or add new featur
 4. Host your project.
 5. Make changes on already hosted project.
 ### 1. Create GitHub Account
-With a personal accont on [GitHub.com]() you can:
+With a personal accont on [GitHub.com](https://github.com/) you can:
 * Create a repository
 * host projects
 * collaborate with others
 * Connect with the GitHub community etc.
 
-To sign up for a GitHub account navigate to [https://github.com/]() and follow the prompts.
+To sign up for a GitHub account navigate to [https://github.com/](https://github.com/) and follow the prompts.
 
 ![needs a data connection to display image]()
 
 ### 2. Create a Repository
-With a [repository]() you can do the following:
+With a [repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) you can do the following:
 * Upload your code project
 * save projects for reference purposes
 * host your projects on GitHub Pages etc.
@@ -86,4 +86,4 @@ To make changes to your hosted project now you have gotten some corrections with
 6. visit your hosted project, and refresh to see the changes you made on the hosted project.
 
 ### Conclusion
-You can have your project hosted and make changes even after hosting without deleting and rehosting the project. Am sure this tutorial is helpful why not follow me on [Twitter]() for daily tips on web development?
+You can have your project hosted and make changes even after hosting without deleting and rehosting the project. Am sure this tutorial is helpful why not follow me on [Twitter](https://twitter.com/FidelisObioma) for daily tips on web development?
