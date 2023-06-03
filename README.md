@@ -51,7 +51,7 @@ On the repository you created at step one do the following:
 1. click on **Add file**
 2. click on **upload files**
 
-![image needs a data connection to display]()
+![image needs a data connection to display](2023-06-03-16-27-14.png)
 
 3. drag and drop your project files
 (Note: ensure what you upload is a file or files, not a folder, your HTML file name should has index.html else your hosting won't work.)
