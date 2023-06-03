@@ -26,9 +26,6 @@ With a personal accont on [GitHub.com](https://github.com/) you can:
 * Connect with the GitHub community etc.
 
 To sign up for a GitHub account navigate to [https://github.com/](https://github.com/) and follow the prompts.
-
-![needs a data connection to display image]()
-
 ### 2. Create a Repository
 With a [repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) you can do the following:
 * Upload your code project
