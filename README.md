@@ -57,7 +57,7 @@ On the repository you created at step one do the following:
 (Note: ensure what you upload is a file or files, not a folder, your HTML file name should has index.html else your hosting won't work.)
 4. After uploading your files click on **commit changes**
 
-![image needs a data connection to display]()
+![image needs a data connection to display](2023-06-03-16-48-31.png)
 
 ### 4. Host Your Project
 After uploading your projects to the repository
