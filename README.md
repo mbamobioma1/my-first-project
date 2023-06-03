@@ -43,7 +43,7 @@ With a [repository](https://docs.github.com/en/repositories/creating-and-managin
 6. check **Add a READ me file**
 7. click on **Create repository**
 
-![image needs a data connection to display](Web capture_2-6-2023_21360_github.com.jpeg)
+![image needs a data connection to display]()
 
 ### 3. Upload Your Project to the repository
 On the repository you created at step one do the following:
