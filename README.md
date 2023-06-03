@@ -4,6 +4,7 @@
 You've developed an awesome project, oh yeah! that's great, but don't you think putting your project out there for feedback makes a lot of sense?
 
 Let's get it straight, you are working on a client project and you are done with the project. Your client needs to see what the project looks like and will probably ask for some changes or have you add new features to the project. How do you show your distanced client the project and have him/her access it? How do you make changes or add new features, without deleting and rehosting the project each time you make changes or add new features to the project? No worries, this step-by-step tutorial will put you through with much ease.
+
 In this tutorial, we covered the following:
 * How to create GitHub account.
 * How to create a repository.
