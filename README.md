@@ -44,7 +44,7 @@ With a [repository](https://docs.github.com/en/repositories/creating-and-managin
 7. click on **Create repository**
 
 
-![image needs a data connection to display](2023-06-03-16-02-14.png)
+![image needs a data connection to display](Web capture_2-6-2023_21360_github.com.jpeg)
 
 ### 3. Upload Your Project to the repository
 On the repository you created at step one do the following:
