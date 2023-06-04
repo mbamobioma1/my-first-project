@@ -34,7 +34,7 @@ With a repository you can do the following:
 
 For more information see about [repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
 #### Steps on How to Create Repository
-1. Click the plus icon on any of the GitHub pages
+1. Click the plus icon on any of the GitHub Pages
 2. Click on **New repository**
 
 ![image needs a data connection to display](2023-06-03-16-02-14.png)
