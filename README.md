@@ -6,24 +6,24 @@ You've developed an awesome project, oh yeah! that's great, but don't you think 
 Let's get it straight, you are working on a client project and you are done with the project. Your client needs to see what the project looks like and will probably ask for some changes or have you add new features to the project. How do you show your distanced client the project and have him/her access it? How do you make changes or add new features, without deleting and rehosting the project each time you make changes or add new features to the project? No worries, this step-by-step tutorial will put you through with much ease.
 
 In this tutorial, we covered the following:
-* How to create GitHub account.
-* How to create a repository.
-* How to upload project to a repository.
-* How to host project using GitHub Pages.
-* How to make changes on already hosted project.
+* how to create GitHub account
+* how to create a repository
+* how to upload project to a repository
+* how to host project using GitHub Pages
+* how to make changes on already hosted project
 ## Steps to Host Project on GitHub Pages
 Take the following steps to host your project and make changes or add new features if there is need to do so:
-1. Create GitHub account.
-2. Create repository.
-3. Upload your project to the repository
-4. Host your project.
-5. Make changes on already hosted project.
+1. create GitHub account
+2. create repository
+3. upload your project to the repository
+4. host your project
+5. make changes on already hosted project
 ### 1. Create GitHub Account
 With a personal accont on [GitHub.com](https://github.com/) you can:
-* Create a repository
+* create a repository
 * host projects
 * collaborate with others
-* Connect with the GitHub community etc.
+* connect with the GitHub community etc
 
 To sign up for a GitHub account navigate to [https://github.com/](https://github.com/) and follow the prompts.
 ### 2. Create a Repository
@@ -74,11 +74,11 @@ After uploading your projects to the repository
 To make changes to your hosted project now you have gotten some corrections without deleting and rehosting:
 
 1. make changes to your local file
-2. click on **Add file** (on the same repository you hosted).
+2. click on **Add file** (on the same repository you hosted)
 3. click on **Upload file**
 4. drag and drop your project file or files
 5. click on commit changes
-6. visit your hosted project, and refresh to see the changes you made on the hosted project.
+6. visit your hosted project, and refresh to see the changes you made on the hosted project
 
-### Conclusion
-You can have your project hosted and make changes even after hosting without deleting and rehosting the project. Am sure this tutorial is helpful why not follow me on [Twitter](https://twitter.com/FidelisObioma) for daily tips on web development?
+## Conclusion
+In this tutorial you learnt how to host your project and make changes to already hosted project. If the tutorial is helpful, follow me on [Twitter](https://twitter.com/FidelisObioma) for daily tips on web development.
