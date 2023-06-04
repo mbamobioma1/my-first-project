@@ -55,8 +55,8 @@ On the repository you created at step one do the following:
 ![image needs a data connection to display](2023-06-03-16-27-14.png)
 
 3. drag and drop your project files
-(Note: ensure what you upload is a file or files, not a folder, your HTML file name should has index.html else your hosting won't work.)
-4. After uploading your files click on **commit changes**
+(note: ensure what you upload is a file or files, not a folder, your HTML file name should has index.html else your hosting won't work)
+4. after uploading your files click on **commit changes**
 
 ![image needs a data connection to display](2023-06-03-16-48-31.png)
 
