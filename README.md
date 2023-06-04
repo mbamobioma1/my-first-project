@@ -6,42 +6,44 @@ You've developed an awesome project, oh yeah! that's great, but don't you think 
 Let's get it straight, you are working on a client project and you are done with the project. Your client needs to see what the project looks like and will probably ask for some changes or have you add new features to the project. How do you show your distanced client the project and have him/her access it? How do you make changes or add new features, without deleting and rehosting the project each time you make changes or add new features to the project? No worries, this step-by-step tutorial will put you through with much ease.
 
 In this tutorial, we covered the following:
-* how to create GitHub account
-* how to create a repository
-* how to upload project to a repository
-* how to host project using GitHub Pages
-* how to make changes on already hosted project
+* How to create GitHub account.
+* How to create a repository.
+* How to upload project to a repository.
+* How to host project using GitHub Pages.
+* How to make changes on already hosted project.
 ## Steps to Host Project on GitHub Pages
 Take the following steps to host your project and make changes or add new features if there is need to do so:
-1. create GitHub account
-2. create repository
-3. upload your project to the repository
-4. host your project
-5. make changes on already hosted project
+1. Create GitHub account.
+2. Create repository.
+3. Upload your project to the repository.
+4. Host your project.
+5. Make changes on already hosted project.
 ### 1. Create GitHub Account
 With a personal accont on [GitHub.com](https://github.com/) you can:
-* create a repository
-* host projects
-* collaborate with others
-* connect with the GitHub community etc.
+* Create a repository.
+* Host projects.
+* Hollaborate with others.
+* Connect with the GitHub community etc.
 
 To sign up for a GitHub account navigate to [https://github.com/](https://github.com/) and follow the prompts.
 ### 2. Create a Repository
-With a [repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories) you can do the following:
-* Upload your code project
-* save projects for reference purposes
-* host your projects on GitHub Pages etc.
+With a repository you can do the following:
+* Upload your code project.
+* Save projects for reference purposes
+* Host your projects on GitHub Pages etc.
+
+For more information see about [repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
 #### Steps on How to Create Repository
-1. click the plus icon on any of the GitHub pages
-2. click on **New repository**
+1. Click the plus icon on any of the GitHub pages
+2. Click on **New repository**
 
 ![image needs a data connection to display](2023-06-03-16-02-14.png)
 
-3. name your repository eg ***my-first-project***
-4. set it public (make sure it is public if you plan on hosting your project else it won't work)
-5. add a description of the repository (optional)
-6. check **Add a READ me file**
-7. click on **Create repository**
+3. Name your repository eg "my-first-project".
+4. Set it public. (make sure it is public if you plan on hosting your project else it won't work.)
+5. Add a description of the repository (optional)
+6. Check **Add a READ me file**
+7. Click on **Create repository**
 
 
 ![image needs a data connection to display](2023-06-04-02-11-43.png)
