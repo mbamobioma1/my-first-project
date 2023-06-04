@@ -23,7 +23,7 @@ With a personal accont on [GitHub.com](https://github.com/) you can:
 * create a repository
 * host projects
 * collaborate with others
-* connect with the GitHub community etc
+* connect with the GitHub community etc.
 
 To sign up for a GitHub account navigate to [https://github.com/](https://github.com/) and follow the prompts.
 ### 2. Create a Repository
@@ -55,7 +55,7 @@ On the repository you created at step one do the following:
 ![image needs a data connection to display](2023-06-03-16-27-14.png)
 
 3. drag and drop your project files
-(note: ensure what you upload is a file or files, not a folder, your HTML file name should has index.html else your hosting won't work)
+(ensure what you upload is a file or files, not a folder, your HTML file name should has index.html else your hosting won't work)
 4. after uploading your files click on **commit changes**
 
 ![image needs a data connection to display](2023-06-03-16-48-31.png)
